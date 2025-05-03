@@ -18,5 +18,5 @@ A lightweight Node.js wrapper around `amqplib` to easily publish and consume mes
 ### Via GitHub
 
 ```bash
-npm install git+ssh://git@github.com/4vs/rabbitmq-client.git
+npm install https://github.com/AntoineSierzputowski/rabbitmq-client
 ```
